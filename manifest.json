@@ -1,0 +1,19 @@
+{
+    "short_name": "bebeu água?",
+    "name": "bebeu água?",
+    "start_url": "/index.html",
+    "scope": "/",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/images/agua-128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "/images/agua-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
